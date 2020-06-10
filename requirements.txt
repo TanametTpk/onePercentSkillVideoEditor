@@ -1,0 +1,5 @@
+librosa
+numpy
+pretty_midi
+moviepy
+glob
